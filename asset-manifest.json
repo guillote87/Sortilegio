@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.124e1bab.css",
-    "main.js": "/static/js/main.25a3327b.js",
-    "static/media/5.png": "/static/media/5.20598e87c052565a921d.png",
-    "static/media/7.png": "/static/media/7.dddf3c63c9735385a750.png",
-    "static/media/6.png": "/static/media/6.928a92f61dcc241e94c1.png",
-    "static/media/banner.jpg": "/static/media/banner.f259b0a407a8c183e7e2.jpg",
-    "static/media/about-pic.jpg": "/static/media/about-pic.8c54360c879e04b5ef18.jpg",
-    "static/media/icon2.png": "/static/media/icon2.b9fe8849877e684ae2d6.png",
-    "static/media/icon1.png": "/static/media/icon1.c1499eac1cb266782890.png",
-    "static/media/icon3.png": "/static/media/icon3.c3b066f13fb2f3566ece.png",
-    "static/media/icon4.png": "/static/media/icon4.d5ed5d627d9b772fda68.png",
-    "index.html": "/index.html",
-    "main.124e1bab.css.map": "/static/css/main.124e1bab.css.map",
-    "main.25a3327b.js.map": "/static/js/main.25a3327b.js.map"
+    "main.css": "/Sortilegio/static/css/main.e9961527.css",
+    "main.js": "/Sortilegio/static/js/main.2c3bb8fc.js",
+    "static/media/5.png": "/Sortilegio/static/media/5.20598e87c052565a921d.png",
+    "static/media/7.png": "/Sortilegio/static/media/7.dddf3c63c9735385a750.png",
+    "static/media/6.png": "/Sortilegio/static/media/6.928a92f61dcc241e94c1.png",
+    "static/media/banner.jpg": "/Sortilegio/static/media/banner.f259b0a407a8c183e7e2.jpg",
+    "static/media/about-pic.jpg": "/Sortilegio/static/media/about-pic.8c54360c879e04b5ef18.jpg",
+    "static/media/icon2.png": "/Sortilegio/static/media/icon2.b9fe8849877e684ae2d6.png",
+    "static/media/icon1.png": "/Sortilegio/static/media/icon1.c1499eac1cb266782890.png",
+    "static/media/icon3.png": "/Sortilegio/static/media/icon3.c3b066f13fb2f3566ece.png",
+    "static/media/icon4.png": "/Sortilegio/static/media/icon4.d5ed5d627d9b772fda68.png",
+    "index.html": "/Sortilegio/index.html",
+    "main.e9961527.css.map": "/Sortilegio/static/css/main.e9961527.css.map",
+    "main.2c3bb8fc.js.map": "/Sortilegio/static/js/main.2c3bb8fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.124e1bab.css",
-    "static/js/main.25a3327b.js"
+    "static/css/main.e9961527.css",
+    "static/js/main.2c3bb8fc.js"
   ]
 }
