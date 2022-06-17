@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Sortilegio/static/css/main.cb50a756.css",
-    "main.js": "/Sortilegio/static/js/main.317e277f.js",
+    "main.css": "/Sortilegio/static/css/main.1e7f2f73.css",
+    "main.js": "/Sortilegio/static/js/main.5c822578.js",
     "static/media/5.png": "/Sortilegio/static/media/5.20598e87c052565a921d.png",
     "static/media/7.png": "/Sortilegio/static/media/7.dddf3c63c9735385a750.png",
     "static/media/6.png": "/Sortilegio/static/media/6.928a92f61dcc241e94c1.png",
@@ -14,11 +14,11 @@
     "static/media/icon3.png": "/Sortilegio/static/media/icon3.c3b066f13fb2f3566ece.png",
     "static/media/icon4.png": "/Sortilegio/static/media/icon4.d5ed5d627d9b772fda68.png",
     "index.html": "/Sortilegio/index.html",
-    "main.cb50a756.css.map": "/Sortilegio/static/css/main.cb50a756.css.map",
-    "main.317e277f.js.map": "/Sortilegio/static/js/main.317e277f.js.map"
+    "main.1e7f2f73.css.map": "/Sortilegio/static/css/main.1e7f2f73.css.map",
+    "main.5c822578.js.map": "/Sortilegio/static/js/main.5c822578.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb50a756.css",
-    "static/js/main.317e277f.js"
+    "static/css/main.1e7f2f73.css",
+    "static/js/main.5c822578.js"
   ]
 }
